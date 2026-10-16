@@ -16,6 +16,15 @@
 
 ## 安装到 Codex
 
+可以将下面这句话直接发给 Codex：
+
+```text
+使用 skill-installer 安装这个 Skill：
+https://github.com/jupiwulong98-ship-it/jupi-profile-refresh/tree/main/skills/jupi-profile-refresh
+```
+
+也可以下载文件手动安装：
+
 下载本仓库后，将 `skills/jupi-profile-refresh` **整个文件夹**放进你的个人 Skill 目录。本项目在 Codex 的 `~/.codex/skills/` 目录使用；配置了 `CODEX_HOME` 时使用对应目录下的 `skills/`。保留 `references/` 和 `agents/`。
 
 安装后的结构：
