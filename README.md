@@ -25,6 +25,8 @@ https://github.com/jupiwulong98-ship-it/jupi-profile-refresh/tree/main/skills/ju
 
 也可以下载文件手动安装：
 
+[下载 v0.1.0 ZIP 安装包](https://github.com/jupiwulong98-ship-it/jupi-profile-refresh/releases/download/v0.1.0/jupi-profile-refresh-v0.1.0.zip)
+
 下载本仓库后，将 `skills/jupi-profile-refresh` **整个文件夹**放进你的个人 Skill 目录。本项目在 Codex 的 `~/.codex/skills/` 目录使用；配置了 `CODEX_HOME` 时使用对应目录下的 `skills/`。保留 `references/` 和 `agents/`。
 
 安装后的结构：
@@ -71,6 +73,8 @@ Skill作者：橘皮。流程摘要见 `skills/jupi-profile-refresh/references/a
 
 初版：0.1.0。
 
-结构校验、安装包解压与本机文件一致性可以检查；实际主页文案是否合适，仍由使用者核对。Skill不会承诺改名或改简介后获得固定的播放、粉丝与收入。
+已完成结构校验、安装包解压与文件一致性检查，并用 skill-installer 从公开 GitHub 仓库实际安装到临时目录核对。客户端新对话发现与实际调用尚未验收，真人理解与运营效果尚未验证。
+
+实际主页文案是否合适，仍由使用者核对。Skill不会承诺改名或改简介后获得固定的播放、粉丝与收入。
 
 安装与调用不代表AI已替你修改社交账号；实际执行取决于可用工具、登录状态和你明确授权的字段。
