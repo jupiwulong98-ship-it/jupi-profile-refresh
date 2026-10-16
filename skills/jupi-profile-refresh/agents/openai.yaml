@@ -1,0 +1,4 @@
+interface:
+  display_name: "账号主页重做"
+  short_description: "根据你的真实经历与账号内容，重做名称、简介、置顶和首屏方案"
+  default_prompt: "使用 $jupi-profile-refresh，结合我的账号主页、已有内容和真实经历，生成名称、简介、置顶及首屏内容的修改方案。"
